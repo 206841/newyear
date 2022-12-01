@@ -1,0 +1,49 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/festive-golden-theme-new-year-night_23-2148334991.jpg?size=626&ext=jpg&ga=GA1.2.921518783.1669353134&semt=ais");
+    background-size: cover;
+    height: 45vh;
+    width: 100vw;
+    
+}
+.heading{
+    font-size: 45px;
+    color:aliceblue;
+    text-align:center;
+    padding:100px;
+    margin:10px;
+}
+.Newyearbg1{
+    background-color:lightcoral;
+    background-size:cover;
+    height:100vh;
+}
+.img1{
+    height: 120px;
+    width: 150px;
+}
+.Newyearcard1{
+    background-color: aliceblue;
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    padding: 5px;
+    border-radius:25px;
+    text-align: center;
+}
+.head1{
+    color: tomato;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+}
+.para1{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.Newyearcard1:hover{
+    color: black;
+    background-color: palegreen;
+}
+   
